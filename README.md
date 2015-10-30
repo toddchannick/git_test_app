@@ -1,5 +1,3 @@
-== README
-
-**Updated ReadMe File!**
+##Updated ReadMe File!
 
 **Testing the git pull feature...**
